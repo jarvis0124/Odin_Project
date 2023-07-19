@@ -115,8 +115,8 @@ border:  10px solid black ;
     display: flex;
     justify-content: center;
     margin-bottom: 0%;
-    flex 1;
 }
+
 .two .author{
     display: flex;
     margin-top: 10px;
