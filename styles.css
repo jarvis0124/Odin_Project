@@ -5,3 +5,8 @@ body{
     max-width: 400px;
     max-height: 200px;
 }
+
+.two img{
+    max-width: 120px;
+    max-height: 120px;
+}
