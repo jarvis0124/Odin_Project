@@ -17,6 +17,7 @@ margin: 0;
 
 .header {
     display: flex;
+    flex: 1;
     align-items: center;
     color: white;
     justify-content:space-between;
@@ -43,6 +44,7 @@ max-height: 100px;
 .hero{
     display: flex;
     justify-content: space-between;
+    flex: 1;
 }
 
 .hero > img{
@@ -103,6 +105,7 @@ margin-bottom: 10px;
 
 .one{
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -130,6 +133,7 @@ margin-bottom: 10px;
 
 .two{
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: center;
     background-color: #E5E7EB;
@@ -152,6 +156,7 @@ margin-bottom: 10px;
 
 .three {
     display: flex;
+    flex: 1;
     justify-content: center;
     align-content: center;
 }
@@ -201,6 +206,7 @@ text-decoration: none;
 
 .footer{
     display: flex;
+    flex: 1;
     justify-content: center;
     align-items: center;
     font-size: 18px;
