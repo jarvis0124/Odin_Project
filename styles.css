@@ -46,13 +46,17 @@ body{
     align-items: center;
     background-color: #1F2937;
     color: #F9FAF8;
-    gap: 5%;
+    gap: 2.5%;
     padding-bottom: 15px;
 }
 
 .hero img{
     height: auto;
-    max-width: 300px;
+    max-height: 220px;
+    min-width: 300px;
+   /* max-width: 350px;*/
+    padding-left: 20px;
+    margin-left:10px;
     border-radius: 5px;
 }
 
