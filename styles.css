@@ -140,7 +140,6 @@ body{
     flex-direction: column;
     background-color: #E5E7EB;
     padding: auto 200px; 
-    padding: 0 15%;
 } 
 
 .two p:nth-child(1){
