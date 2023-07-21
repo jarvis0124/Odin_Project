@@ -18,14 +18,13 @@ body{
     background-color: #1F2937;
     align-items: center;
     justify-content: space-between;
-    padding: 0.5% 15%; 
+    padding: 0.5% auto; 
 }
 
 .header img {
     min-width: 80px;
     max-height: 120px;
-    margin-right: auto;
-    padding: auto;
+    margin-left: 15%;
     border-radius: 5px;
 }
 
@@ -35,10 +34,11 @@ body{
     margin-left: auto;
     font-weight: bold;
     margin-left: 10px;
-    margin-right: auto ;
-    padding: auto;
 }
 
+.header .links {
+    margin-right: 15%;
+}
  /*hero*/
 
  .hero{
