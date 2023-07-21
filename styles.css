@@ -100,7 +100,7 @@ body{
 /*.one*/
 .one{
     display: flex;
-    flex: 1 1 0;
+    flex: 1 1 auto;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -210,6 +210,7 @@ body{
    .footer{
     padding: 10px 40%; 
     display:flex;
+    justify-content: center;
     align-items: center;
     gap: 5px;
     color: #F9FAF8;
