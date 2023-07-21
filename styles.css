@@ -6,6 +6,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
+    margin: 0 0;
 }
 
 /*header*/
@@ -44,6 +45,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1 1 0;
     background-color: #1F2937;
     color: #F9FAF8;
     gap: 2.5%;
