@@ -52,8 +52,8 @@ body{
 
 .hero img{
     height: auto;
-    max-height: 220px;
-    min-width: 300px;
+    max-height: 240px;
+    min-width: 350px;
    /* max-width: 350px;*/
     padding-left: 20px;
     margin-left:10px;
