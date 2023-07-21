@@ -28,6 +28,8 @@ body{
     margin-left: 15%;
     border-radius: 5px;
     padding-top: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
 }
 
 .header a{
@@ -173,7 +175,6 @@ body{
     border: 2px solid;
     margin: 25px auto;
     padding: 10px 15%;
-    gap: 2px;
     border-radius: 5px;
     background-color: #3882F6;
     color:#F9FAF8;
